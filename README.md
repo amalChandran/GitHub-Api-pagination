@@ -1,2 +1,2 @@
 # GitHub-Api-pagination
-A simple mvvm app with pagination3 based pagination. 
+A simple android app made with mvvm to see Github closed PRs.
