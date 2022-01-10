@@ -1,7 +1,7 @@
 # GitHub-Api-pagination
 A simple android app made with mvvm to see Github closed PRs.
 
-Demo video : https://youtu.be/YyGJ7a2l2gM
+Demo video : https://youtu.be/YyGJ7a2l2gM (video screenshot feature keeps crashing, thats why the poor video quality)
 
 Supports: Pagination. Api failure during pagination. Many states handled using Pagination3 library.
 
