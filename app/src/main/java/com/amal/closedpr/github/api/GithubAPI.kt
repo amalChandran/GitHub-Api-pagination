@@ -10,7 +10,7 @@ import retrofit2.http.Query
 interface GithubAPI {
     // A personal token valid for a few days with minimum access(just public profile)
     // This is need to overcome the ratelimiting on Github's side.
-    @Headers("Authorization: token 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")
+//    @Headers("Authorization: token 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")
     @GET("/repos/{user}/{repoName}/pulls")
     suspend fun getClosedPRs(
         @Path("user") userId: String,
