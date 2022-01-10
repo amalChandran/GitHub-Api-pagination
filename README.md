@@ -13,7 +13,8 @@ Choice of architecture : MVVM using paging library.
 
 Supports pull to refresh as well.
 
-Optimization:
+Optimization pending:
+
 Right now the data is kept in memory. We can persist it to a local DB for better performance when we have to deal with large amounts of data.
 The user error messages are highly technical now. This should be much more user friendly.
 
